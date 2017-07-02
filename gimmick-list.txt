@@ -1,0 +1,14 @@
+Ancient Forest            - 95100004
+Black Garden              - 95100010
+Chicken Game              - 95100018
+Clear World               - 95100021
+Defense Zone              - 95100030
+Dueltaining               - 95100037
+Extra Net                 - 95100040
+Future Visions            - 95100046
+Magical Mid-Breaker Field - 95100064
+Mausoleum of the Emperor  - 95100065
+Savage Colloseum          - 95100066
+Spider Web                - 05100107
+Summon Breaker            - 95100109
+Venom Swamp               - 95100120
