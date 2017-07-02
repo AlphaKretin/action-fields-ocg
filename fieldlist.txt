@@ -3,13 +3,13 @@ Advanced Dark
 //Amazoness Village
 Amorphous Persona
 Ancient City - Rainbow Ruins
-Ancient Forest
+//Ancient Forest
 Archfiend Palabyrinth
 Aroma Garden
 Array of Revealing Light
 Augmented Heraldry
 B.E.F. Zelos
-Black Garden
+//Black Garden
 //Brain Research Lab
 Bug Matrix
 //Canyon
@@ -19,7 +19,7 @@ Catapult Zone
 Celestia
 Centrifugal Field
 Chaos Zone
-Chicken Game
+//Chicken Game
 Chorus of Sanctuary
 Chronomaly City Babylon
 Clear World
